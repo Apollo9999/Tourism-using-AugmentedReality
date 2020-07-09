@@ -1,13 +1,15 @@
 # Tourism-using-AugmentedReality
 
 The application of Augmented Reality in tourism
-We aim to build a mobile-based application that enhances the experience of urban tourism in India.  
+We aim to build a mobile-based application that enhances the experience of urban tourism in India.  We would take advantage of Augmented Reality technology to show in real-time the unfinished, broken and damaged monuments in their original, untouched states on their phone screens when their camera is pointed at such an object. We will also provide our users with the opportunity of experiencing events unique to that place or area, whether they are ancient customs and traditions or even urban celebrations. Examples of such events are - On republic day and independence day- the unique lighting of the India Gate, Victoria terminus and Gateway of India as well as the parade on Rajpath.
 
 
-During the corona days we were missing out of wandering outside and traveling tourism places so for having the virtual experience we need this kind of app which can give us virtual traveling experience.
-Our Objective is to build a feature which displays unsplash free photos collection in a VR mode.
-There are a ton of really interesting developments happening in the VR space right now and some are even focused on the web, which is awesome!
-It will increase/promote Virtual Booking Interface, Virtual Travel Experiences.
-It can be useful to educate historical events to students by learning over VR devices.
-It is an instant as well as an easily accessible source of information for tourists about numerous historical monuments and areas - by just pointing their phone camera towards it. This would provide information such as cultural heritage, artistic, historical, political, technical and architectural importance
-Currently, in the app when the "simulate VR" toggle is active, the scene renders full screen and utilizes mouse movement to simulate the head tracking of a VR headset.
+
+AR+GPS Location
+
+
+
+
+This asset enables us to place 3D objects in geographical positions defined by their latitude, longitude and altitude. 
+Using this asset, we can create and place monuments in their required locations for the users to see when this feature is enabled.
+
